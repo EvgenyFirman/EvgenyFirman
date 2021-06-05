@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **RXSwift and Realm**
 
 - 👯 I’m looking to collaborate on **IOS App Projects**
-Cancel changes
-- 💬 Ask me about **Swift, IOS Development**
+
+- 💬 Ask me about **Swift, IOS Development and Frontend Development**
 
 - 📫 How to reach me **Eugeniolio@Yandex.ru**
 
