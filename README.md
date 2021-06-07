@@ -28,5 +28,5 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evgenyfirman&show_icons=true&locale=en&layout=compact" alt="evgenyfirman" /></p>
 
-<p margin-top="20">&nbsp;<img style="margin-top:20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=evgenyfirman&show_icons=true&locale=en" alt="evgenyfirman" /></p>
+<p margin-top="20">&nbsp;<img style="max-width:100%; margin-top: 20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=evgenyfirman&show_icons=true&locale=en" alt="evgenyfirman" /></p>
 </div>
