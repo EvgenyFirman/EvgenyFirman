@@ -12,7 +12,7 @@
 - 💬 Ask me about **Swift, IOS Development and Frontend Development**
 
 - 📫 How to reach me **Eugeniolio@Yandex.ru**
-- +7-931-963-84-47
+- 📲 +7-931-963-84-47
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
