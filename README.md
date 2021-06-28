@@ -13,6 +13,7 @@
 
 - 📫 How to reach me **Eugeniolio@Yandex.ru**
 - 📲 +7-931-963-84-47
+-  Open to job offers / Открыт к предложениям о сотрудничестве
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
